@@ -1,4 +1,4 @@
-# Network-Security-using-Proxy-Server
+# Network Security using Proxy Server
 A functional proxy server to handle multiple requests and provide security against threats in a network domain.
 
 Steps to authenticate user (client) by the Server:
